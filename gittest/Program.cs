@@ -8,7 +8,7 @@ namespace gittest
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hungry!");
-            Console.WriteLine("Hdadaddddd");
+            Console.WriteLine("metoo!");
         }
     }
 }
